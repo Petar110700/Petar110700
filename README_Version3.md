@@ -8,11 +8,11 @@ I'm a passionate Full Stack Developer who recently completed the Full Stack Pyth
 
 ### 🚀 About Me
 
-- 🧑‍💻 **Technologies:** Python, Flask, JavaScript, MySQL, HTML, CSS *(all at a beginner level, but growing fast!)*
+- 🧑‍💻 **Technologies:** Python, Flask, JavaScript, JQuerry, MySQL, HTML, CSS, Bootstrap *(all at a beginner level, but growing fast!)*
 - 🎓 **Certifications:**  
   - Python Full Stack Development (Quantox Academy)  
   - Network Administration (ITAcademy)
-- 🏆 **Recent Milestone:** Graduated from Quantox Academy's Full Stack Python Development program
+- 🏆 **Recent Milestone:** Graduated from Quantox Academy's Python Full Stack Development Course
 
 ### 🌟 Portfolio Highlight
 
