@@ -19,6 +19,9 @@ I'm a passionate Full Stack Developer who recently completed the Full Stack Pyth
 **Tourist Agency Website**  
 For my graduation project, I designed and built a tourist agency website, combining backend logic with a responsive, modern frontend. This hands-on experience helped me apply what I learned and create something practical and user-friendly.
 
+**Veterinary Clinic Web App**
+A web application for managing a veterinary clinic, including users, appointments, medical records, and therapies. This project helped me strengthen my backend logic and database management skills while building a functional and user-friendly.
+
 ### 📚 Currently
 
 - Expanding my portfolio with new full-stack projects
